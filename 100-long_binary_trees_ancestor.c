@@ -1,4 +1,3 @@
-100-long_binary_trees_ancestor.c
 #include "binary_trees.h"
 
 size_t depth(const binary_tree_t *tree);

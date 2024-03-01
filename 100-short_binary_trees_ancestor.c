@@ -1,4 +1,3 @@
-100-short_binary_trees_ancestor.c
 #include "binary_trees.h"
 
 /**
